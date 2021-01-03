@@ -1,0 +1,19 @@
+.container{
+    margin-top:10px;
+}
+.card{
+    height: 700px;
+}
+
+.card-body{
+    margin-top:5px;
+    margin-left: 30px;
+    height: 40px;
+    width: 1065px;  
+    background-color: #eeee; 
+    color: black;
+    overflow-y: auto;
+}
+.btn-danger{
+  
+}
